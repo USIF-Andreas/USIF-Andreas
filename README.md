@@ -32,5 +32,3 @@ I'm a backend developer, machine learning engineer, and competitive programmer w
 - 💼 [LinkedIn – Yousef Malak](https://www.linkedin.com/in/usif-malak-98026b287)  
 - 🧠 [GitHub – My Projects](https://github.com/USIF-Andreas)
 
-⚡ **Fun fact**  
-![Funny Coding GIF](https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif)
