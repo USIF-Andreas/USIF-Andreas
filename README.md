@@ -91,10 +91,7 @@ me.say_hi()
 
 <div align="center">
 
-<a href="https://github.com/USIF-Andreas">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=USIF-Andreas&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=USIF-Andreas&layout=compact&langs_count=8&theme=radical"/>
-</a>
+
 
 </div>
 
@@ -106,15 +103,6 @@ me.say_hi()
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-  
-[![trophy](https://github-profile-trophy.vercel.app/?username=USIF-Andreas&theme=radical&no-frame=false&no-bg=false&margin-w=4&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
 
 ## 📈 Activity Graph
 
@@ -126,15 +114,6 @@ me.say_hi()
 
 ---
 
-## 💼 Featured Projects
-
-<div align="center">
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=USIF-Andreas&repo=Ai-Agent-RAG&theme=tokyonight&hide_border=true)](https://github.com/USIF-Andreas/Ai-Agent-RAG)
-
-</div>
-
----
 
 ## 👯 Open to Collaborate On
 
@@ -171,31 +150,4 @@ const expertise = {
 
 </div>
 
----
 
-<div align="center">
-  
-### 💭 Random Dev Quote
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
----
-
-### 👀 Profile Views
-
-![](https://komarev.com/ghpvc/?username=USIF-Andreas&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS)
-
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
-
-</div>
-
----
-
-<div align="center">
-
-### ⚡ Fun Fact
-**"Code is like humor. When you have to explain it, it's bad!"** 😄
-
-Made with ❤️ by Yousef Malak
-
-</div>
