@@ -1,40 +1,45 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Yousef%20Malak&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Backend%20Dev%20%7C%20ML%20Engineer%20%7C%20Competitive%20Programmer&descAlignY=52&descSize=16"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Yousef%20Malak&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=AI%20Engineer%20%7C%20Agentic%20Systems%20%7C%20Competitive%20Programmer&descAlignY=52&descSize=16"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=700&lines=Building+things+that+scale+%F0%9F%9A%80;Teaching+machines+to+think+%F0%9F%A4%96;Solving+problems+one+algorithm+at+a+time+%F0%9F%8F%86;Always+shipping%2C+never+stopping+%F0%9F%94%A5)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=700&lines=Building+multi-agent+systems+with+LangGraph+%F0%9F%A4%96;Shipping+RAG+pipelines+that+actually+work+%F0%9F%9A%80;CS+student+%40+Ain+Shams+University%2C+Batch+2027+%F0%9F%8E%93;Leading+the+AI+department+at+iCLUB+%F0%9F%A7%A0)](https://git.io/typing-svg)
 
 </div>
 
 ---
 
-```python
-#!/usr/bin/env python3
+### 👋 About Me
 
-class YousefMalak:
-    name       = "Yousef Malak"
-    handle     = "@USIF-Andreas"
-    location   = "Egypt 🇪🇬"
-    languages  = ["Python", "C++", "JavaScript", "SQL"]
-    stack      = ["Django", "FastAPI", "Flask", "Node.js"]
-    ml         = ["TensorFlow", "PyTorch", "LangChain", "Scikit-Learn"]
-    currently  = "Building AI agents + MLOps pipelines 🛸"
-    fun_fact   = "I debug faster with coffee ☕"
+I'm **Yousef Malak**, a third-year Computer Science student at Ain Shams University and an **AI Engineer at Wider**. I lead the AI department at **iCLUB**, my university's tech club, and spend most of my time building agentic AI systems — multi-agent pipelines, RAG systems, and tools that make LLMs actually useful in production.
 
-    def __repr__(self):
-        return f"Engineer who turns ideas into production-ready systems."
-```
+- 🏗️ Hands-on with **LangGraph**, **RAG**, **pgvector**, and computer vision (**YOLO**)
+- 🧩 Interested in eval-driven development for agentic AI — making agent behavior measurable, not just "vibes"
+- 🏆 Competitive programmer, grinding CSES and preparing for **ACPC**
+- 🎓 GPA 3.4
 
 ---
 
-## ⚡ What I Build
+## ⚡ What I'm Building
 
-| Domain | What I Do |
-|--------|-----------|
-| 🔧 **Backend** | Scalable REST APIs, microservices, system design |
-| 🤖 **ML / AI** | RAG systems, LLM agents, predictive models |
-| 🏆 **Competitive** | DP, graphs, data structures on CF & LC |
-| 🔁 **MLOps** | Model deployment, Docker, CI/CD pipelines |
+### 🧵 Loom CLI
+An agentic coding CLI (à la OpenCode / Claude Code) in Python — Typer + LangGraph + Rich, multi-provider (Anthropic / OpenRouter / NVIDIA / Groq), with support for defining custom multi-agent architectures.
+
+<img src="./assets/loom_cli.gif" width="500" alt="Loom CLI terminal demo"/>
+
+### 🛍️ Kayfa Sales Agent
+Multilingual (Arabic/English) LangGraph sales chatbot built during my internship at Kayfa — RAG over a 52-course catalog, lead scoring, CRM integration, WhatsApp notifications via Twilio.
+
+<img src="./assets/kayfa_agent.gif" width="500" alt="Kayfa Sales Agent chat demo"/>
+
+### 🎓 Graduation Project
+An AI-powered assistive solution for individuals with cognitive and developmental challenges, built on LangGraph, RAG, Whisper, and YOLO.
+
+<img src="./assets/grad_project.gif" width="500" alt="Adaptive assistant system diagram"/>
+
+### 🧠 Agentic AI Patterns App
+An educational Streamlit app walking through agentic architecture patterns (ReAct, Plan-and-Execute, HITL) with interactive diagrams and quizzes.
+
+<img src="./assets/agentic_patterns.gif" width="500" alt="ReAct loop pattern diagram"/>
 
 ---
 
@@ -47,41 +52,26 @@ class YousefMalak:
 ![JavaScript](https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![SQL](https://img.shields.io/badge/SQL-0D1117?style=for-the-badge&logo=mysql&logoColor=4479A1)
 
-![Django](https://img.shields.io/badge/Django-0D1117?style=for-the-badge&logo=django&logoColor=092E20)
-![FastAPI](https://img.shields.io/badge/FastAPI-0D1117?style=for-the-badge&logo=fastapi&logoColor=009688)
-![Flask](https://img.shields.io/badge/Flask-0D1117?style=for-the-badge&logo=flask&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-0D1117?style=for-the-badge&logo=nodedotjs&logoColor=339933)
-
-![TensorFlow](https://img.shields.io/badge/TensorFlow-0D1117?style=for-the-badge&logo=tensorflow&logoColor=FF6F00)
-![PyTorch](https://img.shields.io/badge/PyTorch-0D1117?style=for-the-badge&logo=pytorch&logoColor=EE4C2C)
+![LangGraph](https://img.shields.io/badge/LangGraph-0D1117?style=for-the-badge&logo=langchain&logoColor=1C3C3C)
 ![LangChain](https://img.shields.io/badge/LangChain-0D1117?style=for-the-badge&logo=chainlink&logoColor=375BD2)
-![Scikit Learn](https://img.shields.io/badge/Scikit_Learn-0D1117?style=for-the-badge&logo=scikit-learn&logoColor=F7931E)
+![pgvector](https://img.shields.io/badge/pgvector-0D1117?style=for-the-badge&logo=postgresql&logoColor=316192)
+![PyTorch](https://img.shields.io/badge/PyTorch-0D1117?style=for-the-badge&logo=pytorch&logoColor=EE4C2C)
+![YOLO](https://img.shields.io/badge/YOLO-0D1117?style=for-the-badge&logo=yolo&logoColor=00FFFF)
+
+![FastAPI](https://img.shields.io/badge/FastAPI-0D1117?style=for-the-badge&logo=fastapi&logoColor=009688)
+![Django](https://img.shields.io/badge/Django-0D1117?style=for-the-badge&logo=django&logoColor=092E20)
+![Streamlit](https://img.shields.io/badge/Streamlit-0D1117?style=for-the-badge&logo=streamlit&logoColor=FF4B4B)
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0D1117?style=for-the-badge&logo=postgresql&logoColor=316192)
 ![MongoDB](https://img.shields.io/badge/MongoDB-0D1117?style=for-the-badge&logo=mongodb&logoColor=47A248)
-![Redis](https://img.shields.io/badge/Redis-0D1117?style=for-the-badge&logo=redis&logoColor=DC382D)
 ![Docker](https://img.shields.io/badge/Docker-0D1117?style=for-the-badge&logo=docker&logoColor=2496ED)
 
 </div>
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-
-</div>
-
-<div align="center">
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=USIF-Andreas&theme=react-dark&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FF6B6B)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
-
----
-
 ## 🌐 Find Me
+
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/usif-malak-98026b287)
