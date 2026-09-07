@@ -15,7 +15,7 @@ I'm **Yousef Malak**, a third-year Computer Science student at Ain Shams Univers
 - 🏗️ Hands-on with **LangGraph**, **RAG**, **pgvector**, and computer vision (**YOLO**)
 - 🧩 Interested in eval-driven development for agentic AI — making agent behavior measurable, not just "vibes"
 - 🏆 Competitive programmer, grinding CSES and preparing for **ACPC**
-- 🎓 GPA 3.4
+- 🎓 GPA 3.5
 
 ---
 
