@@ -10,7 +10,7 @@
 
 ### 👋 About Me
 
-I'm **Yousef Malak**, a third-year Computer Science student at Ain Shams University and an **AI Engineer at Wider**. I lead the AI department at **iCLUB**, my university's tech club, and spend most of my time building agentic AI systems — multi-agent pipelines, RAG systems, and tools that make LLMs actually useful in production.
+I'm **Yousef Malak**, a fourth year Computer Science student at Ain Shams University and an **AI Engineer at Datalentech**. I lead the AI department at **iCLUB**, my university's tech club, and spend most of my time building agentic AI systems — multi-agent pipelines, RAG systems, and tools that make LLMs actually useful in production.
 
 - 🏗️ Hands-on with **LangGraph**, **RAG**, **pgvector**, and computer vision (**YOLO**)
 - 🧩 Interested in eval-driven development for agentic AI — making agent behavior measurable, not just "vibes"
