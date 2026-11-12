@@ -1,8 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Yousef%20Malak&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=AI%20Engineer%20%7C%20Agentic%20Systems%20%7C%20Competitive%20Programmer&descAlignY=52&descSize=16"/>
+<img src="./assets/hero.gif" width="900" alt="Yousef Malak - AI Engineer"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=700&lines=Building+multi-agent+systems+with+LangGraph+%F0%9F%A4%96;Shipping+RAG+pipelines+that+actually+work+%F0%9F%9A%80;CS+student+%40+Ain+Shams+University%2C+Batch+2027+%F0%9F%8E%93;Leading+the+AI+department+at+iCLUB+%F0%9F%A7%A0)](https://git.io/typing-svg)
+<br/>
+
+![Profile views](https://komarev.com/ghpvc/?username=USIF-Andreas&color=00D9FF&style=for-the-badge&label=PROFILE+VIEWS)
 
 </div>
 
@@ -10,10 +12,11 @@
 
 ### 👋 About Me
 
-I'm **Yousef Malak**, a fourth year Computer Science student at Ain Shams University and an **AI Engineer at Datalentech**. I lead the AI department at **iCLUB**, my university's tech club, and spend most of my time building agentic AI systems — multi-agent pipelines, RAG systems, and tools that make LLMs actually useful in production.
+I'm **Yousef Malak**, a fourth year Computer Science student at Ain Shams University and an **AI Engineer at Datalentech**. I lead the AI department at **iCLUB**, my university's tech club, and spend most of my time building agentic AI systems: multi-agent pipelines, RAG systems, and tools that make LLMs actually useful in production.
 
 - 🏗️ Hands-on with **LangGraph**, **RAG**, **pgvector**, and computer vision (**YOLO**)
-- 🧩 Interested in eval-driven development for agentic AI — making agent behavior measurable, not just "vibes"
+- ☀️ Applying AI to **solar PV power forecasting** for my graduation project
+- 🧩 Interested in eval-driven development for agentic AI: making agent behavior measurable, not just "vibes"
 - 🏆 Competitive programmer, grinding CSES and preparing for **ACPC**
 - 🎓 GPA 3.5
 
@@ -21,25 +24,25 @@ I'm **Yousef Malak**, a fourth year Computer Science student at Ain Shams Univer
 
 ## ⚡ What I'm Building
 
-### 🧵 Loom CLI
-An agentic coding CLI (à la OpenCode / Claude Code) in Python — Typer + LangGraph + Rich, multi-provider (Anthropic / OpenRouter / NVIDIA / Groq), with support for defining custom multi-agent architectures.
+### ☀️ Graduation Project: Solar PV Power Forecasting
+Predicting photovoltaic power output from weather data. The pipeline combines **ERA5** reanalysis data (NetCDF), physical PV modeling with **pvlib**, and a **PyTorch** model that learns what the physics model misses. The goal is accurate short-term forecasts that help plan how solar energy is used.
 
-<img src="./assets/loom_cli.gif" width="500" alt="Loom CLI terminal demo"/>
+<img src="./assets/grad_project.gif" width="700" alt="Solar PV forecasting: sun, panels, inverter and measured vs model power curve"/>
+
+### 🧵 Loom CLI
+An agentic coding CLI (à la OpenCode / Claude Code) in Python: Typer + LangGraph + Rich, multi-provider (Anthropic / OpenRouter / NVIDIA / Groq), with support for defining custom multi-agent architectures.
+
+<img src="./assets/loom_cli.gif" width="700" alt="Loom CLI terminal demo"/>
 
 ### 🛍️ Kayfa Sales Agent
-Multilingual (Arabic/English) LangGraph sales chatbot built during my internship at Kayfa — RAG over a 52-course catalog, lead scoring, CRM integration, WhatsApp notifications via Twilio.
+Multilingual (Arabic/English) LangGraph sales chatbot built during my internship at Kayfa: RAG over a 52-course catalog, lead scoring, CRM integration, WhatsApp notifications via Twilio.
 
-<img src="./assets/kayfa_agent.gif" width="500" alt="Kayfa Sales Agent chat demo"/>
-
-### 🎓 Graduation Project
-An AI-powered assistive solution for individuals with cognitive and developmental challenges, built on LangGraph, RAG, Whisper, and YOLO.
-
-<img src="./assets/grad_project.gif" width="500" alt="Adaptive assistant system diagram"/>
+<img src="./assets/kayfa_agent.gif" width="700" alt="Kayfa Sales Agent chat demo"/>
 
 ### 🧠 Agentic AI Patterns App
 An educational Streamlit app walking through agentic architecture patterns (ReAct, Plan-and-Execute, HITL) with interactive diagrams and quizzes.
 
-<img src="./assets/agentic_patterns.gif" width="500" alt="ReAct loop pattern diagram"/>
+<img src="./assets/agentic_patterns.gif" width="700" alt="ReAct loop pattern diagram"/>
 
 ---
 
@@ -57,6 +60,7 @@ An educational Streamlit app walking through agentic architecture patterns (ReAc
 ![pgvector](https://img.shields.io/badge/pgvector-0D1117?style=for-the-badge&logo=postgresql&logoColor=316192)
 ![PyTorch](https://img.shields.io/badge/PyTorch-0D1117?style=for-the-badge&logo=pytorch&logoColor=EE4C2C)
 ![YOLO](https://img.shields.io/badge/YOLO-0D1117?style=for-the-badge&logo=yolo&logoColor=00FFFF)
+![pvlib](https://img.shields.io/badge/pvlib-0D1117?style=for-the-badge&logo=sunrise&logoColor=FFB703)
 
 ![FastAPI](https://img.shields.io/badge/FastAPI-0D1117?style=for-the-badge&logo=fastapi&logoColor=009688)
 ![Django](https://img.shields.io/badge/Django-0D1117?style=for-the-badge&logo=django&logoColor=092E20)
@@ -65,6 +69,17 @@ An educational Streamlit app walking through agentic architecture patterns (ReAc
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0D1117?style=for-the-badge&logo=postgresql&logoColor=316192)
 ![MongoDB](https://img.shields.io/badge/MongoDB-0D1117?style=for-the-badge&logo=mongodb&logoColor=47A248)
 ![Docker](https://img.shields.io/badge/Docker-0D1117?style=for-the-badge&logo=docker&logoColor=2496ED)
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=USIF-Andreas&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=USIF-Andreas&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
 
 </div>
 
@@ -87,6 +102,6 @@ An educational Streamlit app walking through agentic architecture patterns (ReAc
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
+<img src="./assets/footer.gif" width="900" alt="Thanks for visiting"/>
 
 </div>
