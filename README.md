@@ -2,10 +2,6 @@
 
 <img src="./assets/hero.gif" width="900" alt="Yousef Malak - AI Engineer"/>
 
-<br/>
-
-![Profile views](https://komarev.com/ghpvc/?username=USIF-Andreas&color=00D9FF&style=for-the-badge&label=PROFILE+VIEWS)
-
 </div>
 
 ---
@@ -29,10 +25,10 @@ Predicting photovoltaic power output from weather data. The pipeline combines **
 
 <img src="./assets/grad_project.gif" width="700" alt="Solar PV forecasting: sun, panels, inverter and measured vs model power curve"/>
 
-### 🧵 Loom CLI
+### 🧵 OpenCode CLI
 An agentic coding CLI (à la OpenCode / Claude Code) in Python: Typer + LangGraph + Rich, multi-provider (Anthropic / OpenRouter / NVIDIA / Groq), with support for defining custom multi-agent architectures.
 
-<img src="./assets/loom_cli.gif" width="700" alt="Loom CLI terminal demo"/>
+<img src="./assets/loom_cli.gif" width="700" alt="OpenCode CLI terminal demo"/>
 
 ### 🛍️ Kayfa Sales Agent
 Multilingual (Arabic/English) LangGraph sales chatbot built during my internship at Kayfa: RAG over a 52-course catalog, lead scoring, CRM integration, WhatsApp notifications via Twilio.
@@ -78,8 +74,7 @@ An educational Streamlit app walking through agentic architecture patterns (ReAc
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=USIF-Andreas&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=USIF-Andreas&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+<img src="./assets/github_stats.gif" width="900" alt="Yousef's GitHub stats: repositories, stars, followers, contributions and top languages"/>
 
 </div>
 
